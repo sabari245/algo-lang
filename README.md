@@ -1,6 +1,6 @@
 
 # ALGO LANG
-This was an attempt to create an AI-based Programming language that lets you write code in human language. This is powered by **GPT-3**, **Rust Lang** and **Python**
+This was an attempt to create an AI-based transpiler for rust that lets you write code in human language. This is powered by **GPT-3**, **Rust Lang** and **Python**
 
 ## Installation Instructions
 1. install rust from [rust-lang.org](https://www.rust-lang.org/)
